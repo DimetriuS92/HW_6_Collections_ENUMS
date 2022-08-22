@@ -1,0 +1,50 @@
+[INFO] 2022-08-22 23:56:43.770 ListTask:18 - Enter words until you enter the word - break
+[INFO] 2022-08-22 23:56:43.775 ListTask:19 - Enter word:
+[INFO] 2022-08-23 00:02:17.769 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:19.681 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:21.378 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:22.838 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:24.529 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:26.357 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:27.320 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:28.067 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:29.461 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:32.376 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:33.674 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:35.806 ListTask:23 - Enter word:
+[INFO] 2022-08-23 00:02:38.576 ListTask:27 - 
+********All list********
+[INFO] 2022-08-23 00:02:38.591 ListTask:29 - іфвівфі
+[INFO] 2022-08-23 00:02:38.591 ListTask:29 - фывыфв
+[INFO] 2022-08-23 00:02:38.592 ListTask:29 - adssaddsa
+[INFO] 2022-08-23 00:02:38.592 ListTask:29 - saddsadsadsadsa
+[INFO] 2022-08-23 00:02:38.592 ListTask:29 - sdadsadsadsadsadsa
+[INFO] 2022-08-23 00:02:38.592 ListTask:29 - asdsadsa
+[INFO] 2022-08-23 00:02:38.593 ListTask:29 - dsa
+[INFO] 2022-08-23 00:02:38.593 ListTask:29 - asd
+[INFO] 2022-08-23 00:02:38.593 ListTask:29 - sam
+[INFO] 2022-08-23 00:02:38.593 ListTask:29 - sasss
+[INFO] 2022-08-23 00:02:38.617 ListTask:29 - sss
+[INFO] 2022-08-23 00:02:38.622 ListTask:29 - sssss
+[INFO] 2022-08-23 00:02:38.623 ListTask:32 - 
+********Starts with 'S'********
+[INFO] 2022-08-23 00:02:38.626 ListTask:35 - saddsadsadsadsa
+[INFO] 2022-08-23 00:02:38.627 ListTask:35 - sdadsadsadsadsadsa
+[INFO] 2022-08-23 00:02:38.628 ListTask:35 - sam
+[INFO] 2022-08-23 00:02:38.628 ListTask:35 - sasss
+[INFO] 2022-08-23 00:02:38.628 ListTask:35 - sss
+[INFO] 2022-08-23 00:02:38.628 ListTask:35 - sssss
+[INFO] 2022-08-23 00:02:38.629 ListTask:39 - 
+********More than 5 symbols********
+[INFO] 2022-08-23 00:02:38.629 ListTask:42 - іфвівфі
+[INFO] 2022-08-23 00:02:38.629 ListTask:42 - фывыфв
+[INFO] 2022-08-23 00:02:38.629 ListTask:42 - adssaddsa
+[INFO] 2022-08-23 00:02:38.630 ListTask:42 - saddsadsadsadsa
+[INFO] 2022-08-23 00:02:38.630 ListTask:42 - sdadsadsadsadsadsa
+[INFO] 2022-08-23 00:02:38.630 ListTask:42 - asdsadsa
+[INFO] 2022-08-23 00:58:57.551 SetTask:28 - 
+Set before sorting - [Pupils{mark=11, form='B', name='Jack'}, Pupils{mark=12, form='A', name='Jack'}, Pupils{mark=9, form='D', name='Jack'}, Pupils{mark=10, form='C', name='Jack'}, Pupils{mark=5, form='H', name='Jack'}, Pupils{mark=8, form='E', name='Jack'}, Pupils{mark=7, form='F', name='Jack'}, Pupils{mark=6, form='G', name='Jack'}]
+[INFO] 2022-08-23 00:58:57.556 SetTask:33 - 
+Set after sorting - [Pupils{mark=11, form='B', name='Jack'}, Pupils{mark=12, form='A', name='Jack'}, Pupils{mark=9, form='D', name='Jack'}, Pupils{mark=10, form='C', name='Jack'}, Pupils{mark=5, form='H', name='Jack'}, Pupils{mark=8, form='E', name='Jack'}, Pupils{mark=7, form='F', name='Jack'}, Pupils{mark=6, form='G', name='Jack'}]
+[INFO] 2022-08-23 00:58:57.557 SetTask:43 - Tree set before sorting - [Pupils{mark=12, form='A', name='Jack'}]
+[INFO] 2022-08-23 00:58:57.557 SetTask:46 - Tree set after sorting - [Pupils{mark=12, form='A', name='Jack'}]

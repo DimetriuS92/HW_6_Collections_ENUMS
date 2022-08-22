@@ -15,31 +15,31 @@ public class ListTask {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         List<String> lists = new ArrayList<>();
-        LOGGER.error("Enter words until you enter the word - break");
-        LOGGER.error("Enter word:");
+        LOGGER.info("Enter words until you enter the word - break");
+        LOGGER.info("Enter word:");
         String name = in.nextLine();
         while (!Objects.equals(name, "break")){
             lists.add(name);
-            LOGGER.error("Enter word:");
+            LOGGER.info("Enter word:");
             name = in.nextLine();
         }
 
-        LOGGER.error("\n********All list********");
+        LOGGER.info("\n********All list********");
         for(String list : lists){
-            LOGGER.error(list);
+            LOGGER.info(list);
         }
 
-        LOGGER.error("\n********Starts with 'S'********");
+        LOGGER.info("\n********Starts with 'S'********");
         for (String word : lists){
             if (word.startsWith("s")){
-                LOGGER.error(word);
+                LOGGER.info(word);
             }
         }
 
-        LOGGER.error("\n********More than 5 symbols********");
+        LOGGER.info("\n********More than 5 symbols********");
         for (String word : lists) {
             if(word.length()>5) {
-                LOGGER.error(word);
+                LOGGER.info(word);
             }
         }
     }
