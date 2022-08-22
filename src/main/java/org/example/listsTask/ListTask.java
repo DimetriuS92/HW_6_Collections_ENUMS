@@ -24,19 +24,19 @@ public class ListTask {
             name = in.nextLine();
         }
 
-        LOGGER.error("********\nTask 1********");
+        LOGGER.error("\n********All list********");
         for(String list : lists){
             LOGGER.error(list);
         }
 
-        LOGGER.error("\n********Task 2********");
+        LOGGER.error("\n********Starts with 'S'********");
         for (String word : lists){
             if (word.startsWith("s")){
                 LOGGER.error(word);
             }
         }
 
-        LOGGER.error("\n********Task 3********");
+        LOGGER.error("\n********More than 5 symbols********");
         for (String word : lists) {
             if(word.length()>5) {
                 LOGGER.error(word);
