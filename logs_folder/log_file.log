@@ -48,3 +48,135 @@ Set before sorting - [Pupils{mark=11, form='B', name='Jack'}, Pupils{mark=12, fo
 Set after sorting - [Pupils{mark=11, form='B', name='Jack'}, Pupils{mark=12, form='A', name='Jack'}, Pupils{mark=9, form='D', name='Jack'}, Pupils{mark=10, form='C', name='Jack'}, Pupils{mark=5, form='H', name='Jack'}, Pupils{mark=8, form='E', name='Jack'}, Pupils{mark=7, form='F', name='Jack'}, Pupils{mark=6, form='G', name='Jack'}]
 [INFO] 2022-08-23 00:58:57.557 SetTask:43 - Tree set before sorting - [Pupils{mark=12, form='A', name='Jack'}]
 [INFO] 2022-08-23 00:58:57.557 SetTask:46 - Tree set after sorting - [Pupils{mark=12, form='A', name='Jack'}]
+[INFO] 2022-08-29 15:04:48.612 EnumsTask:95 - Enter month - 
+[INFO] 2022-08-29 15:04:55.849 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:04:55.849 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:04:55.850 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:04:55.850 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:04:55.851 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:04:55.851 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:04:55.852 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:04:55.852 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:04:59.635 EnumsTask:104 - Check if there is such a month
+[INFO] 2022-08-29 15:04:59.636 EnumsTask:106 - Month not found.
+[INFO] 2022-08-29 15:04:59.636 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:04:59.637 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:04:59.637 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:04:59.638 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:04:59.638 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:04:59.639 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:04:59.639 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:04:59.640 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:05:01.757 EnumsTask:111 - Display all months with the same season.
+[INFO] 2022-08-29 15:05:01.757 EnumsTask:36 - JANUARY
+[INFO] 2022-08-29 15:05:01.758 EnumsTask:36 - FEBRUARY
+[INFO] 2022-08-29 15:05:01.758 EnumsTask:36 - DECEMBER
+[INFO] 2022-08-29 15:05:01.759 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:05:01.760 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:01.760 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:01.760 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:01.761 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:01.761 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:01.761 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:05:01.762 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:05:11.613 EnumsTask:115 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:11.613 EnumsTask:69 - No
+[INFO] 2022-08-29 15:05:11.614 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:05:11.615 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:11.615 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:11.616 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:11.616 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:11.617 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:11.618 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:05:11.618 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:05:13.683 EnumsTask:119 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:13.686 EnumsTask:43 - FEBRUARY 28
+[INFO] 2022-08-29 15:05:13.686 EnumsTask:43 - APRIL 30
+[INFO] 2022-08-29 15:05:13.687 EnumsTask:43 - JUNE 30
+[INFO] 2022-08-29 15:05:13.687 EnumsTask:43 - SEPTEMBER 30
+[INFO] 2022-08-29 15:05:13.687 EnumsTask:43 - NOVEMBER 30
+[INFO] 2022-08-29 15:05:13.688 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:05:13.688 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:13.689 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:13.689 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:13.689 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:13.690 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:13.690 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:05:13.690 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:05:15.112 EnumsTask:123 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:15.113 EnumsTask:50 - JANUARY 31
+[INFO] 2022-08-29 15:05:15.113 EnumsTask:50 - MARCH 31
+[INFO] 2022-08-29 15:05:15.113 EnumsTask:50 - MAY 31
+[INFO] 2022-08-29 15:05:15.114 EnumsTask:50 - JULY 31
+[INFO] 2022-08-29 15:05:15.114 EnumsTask:50 - AUGUST 31
+[INFO] 2022-08-29 15:05:15.114 EnumsTask:50 - OCTOBER 31
+[INFO] 2022-08-29 15:05:15.115 EnumsTask:50 - DECEMBER 31
+[INFO] 2022-08-29 15:05:15.115 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:05:15.115 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:15.116 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:15.116 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:15.117 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:15.117 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:15.117 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:05:15.117 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:05:16.305 EnumsTask:127 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:16.305 EnumsTask:56 - No
+[INFO] 2022-08-29 15:05:16.306 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:05:16.306 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:16.307 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:16.307 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:16.308 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:16.308 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:16.308 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:05:16.309 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:05:20.110 EnumsTask:132 - Thank you! Hope to see you again:)
+[INFO] 2022-08-29 15:05:29.170 EnumsTask:95 - Enter month - 
+[INFO] 2022-08-29 15:05:44.375 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:05:44.375 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:44.375 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:44.376 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:44.376 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:44.377 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:44.377 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:05:44.378 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:05:48.689 EnumsTask:104 - Check if there is such a month
+[INFO] 2022-08-29 15:05:48.690 EnumsTask:108 - Month found.
+[INFO] 2022-08-29 15:05:48.690 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:05:48.690 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:48.691 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:48.691 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:48.691 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:48.691 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:48.692 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:05:48.692 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:05:56.306 EnumsTask:111 - Display all months with the same season.
+[INFO] 2022-08-29 15:05:56.306 EnumsTask:36 - JUNE
+[INFO] 2022-08-29 15:05:56.307 EnumsTask:36 - JULY
+[INFO] 2022-08-29 15:05:56.307 EnumsTask:36 - AUGUST
+[INFO] 2022-08-29 15:05:56.307 EnumsTask:84 - 1 - Check if there is such a month.
+[INFO] 2022-08-29 15:05:56.308 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:56.308 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:05:56.308 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:05:56.309 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:05:56.309 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:05:56.309 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:05:56.310 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:16:18.657 EnumsTask:95 - Enter month - 
+[INFO] 2022-08-29 15:16:37.340 EnumsTask:84 - 1 - Check if month is .
+[INFO] 2022-08-29 15:16:37.341 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:16:37.341 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:16:37.342 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:16:37.342 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:16:37.343 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:16:37.343 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:16:37.344 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 15:17:23.941 EnumsTask:104 - Check if entered existing month
+[INFO] 2022-08-29 15:17:23.942 EnumsTask:108 - Month found.
+[INFO] 2022-08-29 15:17:23.942 EnumsTask:84 - 1 - Check if month is .
+[INFO] 2022-08-29 15:17:23.942 EnumsTask:85 - 2 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:17:23.943 EnumsTask:86 - 3 - Display all months that have the same number of days.
+[INFO] 2022-08-29 15:17:23.943 EnumsTask:87 - 4 - Display all months with an even number of days.
+[INFO] 2022-08-29 15:17:23.944 EnumsTask:88 - 5 - Display all months with an odd number of days.
+[INFO] 2022-08-29 15:17:23.944 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
+[INFO] 2022-08-29 15:17:23.945 EnumsTask:90 - 0 - Exit
+[INFO] 2022-08-29 15:17:23.945 EnumsTask:100 - Enter a number- 
