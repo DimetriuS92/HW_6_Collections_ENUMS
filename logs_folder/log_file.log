@@ -180,3 +180,18 @@ Set after sorting - [Pupils{mark=11, form='B', name='Jack'}, Pupils{mark=12, for
 [INFO] 2022-08-29 15:17:23.944 EnumsTask:89 - 6 - Display whether the month entered from the console has an even number of days.
 [INFO] 2022-08-29 15:17:23.945 EnumsTask:90 - 0 - Exit
 [INFO] 2022-08-29 15:17:23.945 EnumsTask:100 - Enter a number- 
+[INFO] 2022-08-29 17:47:49.295 MapTask:32 - 
+Added account 'LinkedIn' for John: {Person{age=26, name='John'}=[Account{name='Telegram', id='TelegramId'}, Account{name='Ukrnet', id='UkrnetId'}, Account{name='Facebook', id='FacebookId'}, Account{name='Linkedin', id='LinkedinID'}], Person{age=15, name='Alla'}=[Account{name='Monobank', id='MonobankId'}, Account{name='Google', id='GoogleId'}, Account{name='Privatbank', id='PrivatbankId'}], Person{age=40, name='Alfred'}=[Account{name='Twitter', id='TwitterId'}, Account{name='Google', id='GoogleId'}, Account{name='Facebook', id='FacebookId'}]}
+[INFO] 2022-08-29 17:47:49.299 MapTask:36 - 
+Deleted google for Alla from personAccountsMap: {Person{age=26, name='John'}=[Account{name='Telegram', id='TelegramId'}, Account{name='Ukrnet', id='UkrnetId'}, Account{name='Facebook', id='FacebookId'}, Account{name='Linkedin', id='LinkedinID'}], Person{age=15, name='Alla'}=[Account{name='Monobank', id='MonobankId'}, Account{name='Privatbank', id='PrivatbankId'}], Person{age=40, name='Alfred'}=[Account{name='Twitter', id='TwitterId'}, Account{name='Google', id='GoogleId'}, Account{name='Facebook', id='FacebookId'}]}
+[INFO] 2022-08-29 17:47:49.300 MapTask:40 - 
+Deleted Person 'Alfred' from personAccountsMap: {Person{age=26, name='John'}=[Account{name='Telegram', id='TelegramId'}, Account{name='Ukrnet', id='UkrnetId'}, Account{name='Facebook', id='FacebookId'}, Account{name='Linkedin', id='LinkedinID'}], Person{age=15, name='Alla'}=[Account{name='Monobank', id='MonobankId'}, Account{name='Privatbank', id='PrivatbankId'}]}
+[INFO] 2022-08-29 17:47:49.300 MapTask:43 - 
+Show all Map with Persons and their Accounts: 
+[INFO] 2022-08-29 17:47:49.301 AccountControl:35 - {Person{age=26, name='John'}=[Account{name='Telegram', id='TelegramId'}, Account{name='Ukrnet', id='UkrnetId'}, Account{name='Facebook', id='FacebookId'}, Account{name='Linkedin', id='LinkedinID'}], Person{age=15, name='Alla'}=[Account{name='Monobank', id='MonobankId'}, Account{name='Privatbank', id='PrivatbankId'}]}
+[INFO] 2022-08-29 17:47:49.302 MapTask:47 - 
+All  available accounts for person John: 
+[INFO] 2022-08-29 17:47:49.302 AccountControl:40 - Account{name='Telegram', id='TelegramId'}
+[INFO] 2022-08-29 17:47:49.303 AccountControl:40 - Account{name='Ukrnet', id='UkrnetId'}
+[INFO] 2022-08-29 17:47:49.303 AccountControl:40 - Account{name='Facebook', id='FacebookId'}
+[INFO] 2022-08-29 17:47:49.304 AccountControl:40 - Account{name='Linkedin', id='LinkedinID'}
